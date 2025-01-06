@@ -1,6 +1,8 @@
 # mvPCA
 Principal component analysis (PCA) based on different score functions Use mvPCA (MNM) With (In) R Software
 
+https://www.youtube.com/watch?v=XiPS-D7K8rk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
